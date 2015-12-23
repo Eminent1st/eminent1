@@ -16,6 +16,8 @@ public class gitjframe extends javax.swing.JFrame {
      */
     public gitjframe() {
         initComponents();
+        
+        System.out.println("ok");
     }
 
     /**
